@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="874396" maxwidth="20" size-unit="char">
         <source>text</source>
-        <target state="needs-translation">text</target>
+        <target state="translated">текстенко</target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397">
