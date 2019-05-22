@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file id="19704" original="/Example (AndroidXML).xml" source-language="en" target-language="uk" datatype="plaintext">
     <body>
-      <trans-unit id="874396" maxwidth="20" size-unit="char">
+      <trans-unit id="874396" maxwidth="20" size-unit="char" approved="yes">
         <source>text</source>
         <target state="translated">текстенко</target>
         <note>Context</note>
@@ -17,10 +17,13 @@
         <target state="needs-translation">text 2</target>
         <context context-type="context">Context of the segment 2</context>
       </trans-unit>
-      <trans-unit id="874399" translate="no">
+      <trans-unit id="874399" translate="no" approved="yes">
         <source>text 3</source>
-        <target state="needs-translation">text 3</target>
+        <target state="translated">Текст 3</target>
         <note>Context 3</note>
+        <alt-trans>
+          <target>Текст 3 </target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
