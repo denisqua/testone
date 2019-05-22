@@ -1,3 +1,3 @@
 files:
   - source: /Example.xliff
-    translation: /%two_letters_code%
+    translation: /papka/%two_letters_code%
