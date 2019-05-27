@@ -15,5 +15,3 @@ files:
       - /data/string
   - source: /test.xml
     translation: /xmltest/%locale%.%file_extension%
-    translatable_elements:
-      - /bookstore
