@@ -13,8 +13,6 @@ files:
     content_segmentation: 0
     translatable_elements:
       - /data/string
-  - source: /test.xml
-    translation: /xmltest/%locale%.%file_extension%
   - source: /newtest.xml
     translation: /fold/%locale%.%file_extension%
     translatable_elements:
