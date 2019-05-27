@@ -18,6 +18,4 @@ files:
   - source: /newtest.xml
     translation: /fold/%locale%.%file_extension%
     translatable_elements:
-      - /note/to
       - /note/from
-      - /note/heading
