@@ -1,0 +1,5 @@
+files:
+  - source: /sorryn.xml
+    translation: /update/%two_letters_code%.%file_extension%
+    translate_attributes: 0
+    content_segmentation: 0
