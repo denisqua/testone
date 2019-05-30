@@ -1,5 +1,4 @@
 files:
   - source: /index.twig
-    translation: /tw/%locale%.twig
-    dest : "/pp/inde.html",
-    type" : "html"
+    translation: /tw/%locale%
+ 
