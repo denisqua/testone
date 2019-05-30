@@ -3,6 +3,6 @@ files:
     translation: /tw/%locale%
   - source: /rec.properties
     translation: /re/%locale%.%file_extension% 
-    escape_quotes" : 2,
+    escape_quotes : 2,
     escape_special_characters: 0
  
