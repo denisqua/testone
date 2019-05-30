@@ -1,6 +1,7 @@
 files:
   - source: /index.twig
     translation: /tw/%locale%
+    type: html
   - source: /rec.properties
     translation: /re/%locale%.%file_extension%
     escape_quotes: '2,'
