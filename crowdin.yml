@@ -5,4 +5,13 @@ files:
     translation: /re/%locale%.%file_extension% 
     escape_quotes : 2,
     escape_special_characters: 1
+  - source: /sorryn.xml
+    translation: /update/%two_letters_code%.%file_extension%
+    translate_attributes: 0
+    content_segmentation: 0
+    update_option: update_as_unapproved
+  - source: /testtwo/*.xml
+    ignore:
+      - /testtwo/sorryq.xml
+    translation: /ttwo/%two_letters_code%.%file_extension%
  
