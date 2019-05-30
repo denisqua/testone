@@ -6,5 +6,5 @@ files:
     content_segmentation: 0
   - source: /testtwo/*.xml
     ignore:
-      - /sorryq.xml
+      - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
