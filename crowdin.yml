@@ -9,6 +9,6 @@ files:
       - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
   - source: /index.twig
-    translation: /destest/%locale%.%file_extension%
-    dest : "/pp/inde/html",
+    translation: /destest/%locale%.twig
+    dest : "/pp/inde.html",
     type" : "html"
