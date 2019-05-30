@@ -4,5 +4,5 @@ files:
   - source: /rec.properties
     translation: /re/%locale%.%file_extension% 
     escape_quotes : 2,
-    escape_special_characters: 0
+    escape_special_characters: 1
  
