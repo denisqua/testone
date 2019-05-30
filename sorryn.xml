@@ -5,7 +5,7 @@ Copyright (C) 2014
 -->
 
 <resources>
-  <string name="welcome">Welcome</string>
+  <string name="welcome">Welcomem</string>
   <string name="save_as">save as</string>
   <string name="view">view</string>
   <string name="about">About...</string>
