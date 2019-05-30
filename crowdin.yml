@@ -2,8 +2,8 @@ files:
   - source: /index.twig
     translation: /tw/%locale%
   - source: /rec.properties
-    translation: /re/%locale%.%file_extension% 
-    escape_quotes : 2,
+    translation: /re/%locale%.%file_extension%
+    escape_quotes: '2,'
     escape_special_characters: 1
   - source: /sorryn.xml
     translation: /update/%two_letters_code%.%file_extension%
@@ -14,4 +14,3 @@ files:
     ignore:
       - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
- 
