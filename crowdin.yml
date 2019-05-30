@@ -1,6 +1,6 @@
 files:
   - source: /sorryn.xml
     translation: /update/%two_letters_code%.%file_extension%
-    "update_option" : "update_as_unapproved"
+    update_option : "update_as_unapproved"
     translate_attributes: 0
     content_segmentation: 0
