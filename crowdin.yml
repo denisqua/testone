@@ -1,6 +1,7 @@
 files:
   - source: /index.twig
-    translation: /tw/%locale%
+    dest: ind.html
+    translation: /tw/%locale%.twig
     type: html
   - source: /rec.properties
     translation: /re/%locale%.%file_extension%
