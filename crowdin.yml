@@ -16,7 +16,6 @@ files:
     ignore:
       - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
-    source: /Example.xliff
-    translation: /update/%two_letters_code%.%file_extension%
+ 
    
     
