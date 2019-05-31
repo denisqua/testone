@@ -18,9 +18,5 @@ files:
     translation: /ttwo/%two_letters_code%.%file_extension%
     source: /Example.xliff
     translation: /update/%two_letters_code%.%file_extension%
-    "languages_mapping" : {
-      "two_letters_code" : {
-        "it" : "ita",
-      }
-    }
+   
     
