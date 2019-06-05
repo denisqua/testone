@@ -20,3 +20,4 @@ files:
     translation: /ttwo/%two_letters_code%.%file_extension%
   - source: thisis.html
     translation: /tutu/%locale%.%file_extension%
+    content_segmentation: 0
