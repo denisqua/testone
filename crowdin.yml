@@ -1,6 +1,5 @@
-commit_message: "ha hah aa %original_file_name% and %language% from Crowdin"                
+commit_message: ha hah aa %original_file_name% and %language% from Crowdin
 append_commit_message: false
-
 files:
   - source: /index.twig
     dest: ind.html
@@ -19,6 +18,5 @@ files:
     ignore:
       - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
- 
-   
-    
+  - source: thisis.html
+    translation: /tutu/%locale%.%file_extension%
