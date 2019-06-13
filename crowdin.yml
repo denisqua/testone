@@ -1,23 +1,4 @@
-commit_message: ha hah aa %original_file_name% and %language% from Crowdin
-append_commit_message: false
 files:
-  - source: /index.twig
-    dest: ind.html
-    translation: /tw/%locale%.twig
-    type: html
-  - source: /rec.properties
-    translation: /re/%locale%.%file_extension%
-    escape_quotes: '2,'
-    escape_special_characters: 1
-  - source: /sorryn.xml
-    translation: /update/%two_letters_code%.%file_extension%
-    translate_attributes: 0
-    content_segmentation: 0
-    update_option: update_as_unapproved
   - source: /testtwo/*.xml
-    translation: /ttwo/%two_letters_code%.%file_extension%
-  - source: thisis.html
-    translation: /tutu/%local
-    e%.%file_extension%
-    content_segmentation: 1
+    translation: /ttwo/%two_letters_code%.%file_extension
 
