@@ -4,5 +4,5 @@ files:
   - source: Example.xliff
     translation: /tesste/%two_letters_code%.%file_extension%
 translation_replace: {
-"_en" : ""
+"ple" : ""
 }
