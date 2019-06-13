@@ -15,12 +15,11 @@ files:
     content_segmentation: 0
     update_option: update_as_unapproved
   - source: /testtwo/*.xml
-    ignore:
-      - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
+    translation_replace: 
+"_en" : ""
   - source: thisis.html
     translation: /tutu/%local
     e%.%file_extension%
     content_segmentation: 1
-translation_replace: 
-"_en" : ""
+
