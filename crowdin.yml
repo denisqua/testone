@@ -19,5 +19,8 @@ files:
       - /testtwo/sorryq.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
   - source: thisis.html
-    translation: /tutu/%locale%.%file_extension%
+    translation: /tutu/%local
+    e%.%file_extension%
     content_segmentation: 1
+translation_replace: 
+"_en" : ""
