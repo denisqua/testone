@@ -7,8 +7,7 @@ files:
     type: html
   - source: /rec.properties
     translation: /re/%locale%.%file_extension%
-    translation_replace: 
-"c" : ""
+
     escape_quotes: '2,'
     escape_special_characters: 1
   - source: /sorryn.xml
