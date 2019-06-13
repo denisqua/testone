@@ -16,7 +16,6 @@ files:
     update_option: update_as_unapproved
   - source: /testtwo/*.xml
     translation: /ttwo/%two_letters_code%.%file_extension%
-   
   - source: thisis.html
     translation: /tutu/%local
     e%.%file_extension%
