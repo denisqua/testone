@@ -1,8 +1,7 @@
+translation_replace:
+  ple: 
 files:
   - source: /testtwo/*.xml
     translation: /ttwo/%two_letters_code%.%file_extension
-  - source: Example.xliff
-    translation: /tesste/%two_letters_code%.%file_extension%
-translation_replace: {
-"ple" : ""
-}
+  - source: Exam_ple.xml
+    translation: /qqq/%two_letters_code%.%file_extension%
