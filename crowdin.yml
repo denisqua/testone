@@ -1,4 +1,5 @@
 files:
   - source: /testtwo/*.xml
     translation: /ttwo/%two_letters_code%.%file_extension
-
+  - source: Example.xliff
+    translation: /tesste/%two_letters_code%.%file_extension%
