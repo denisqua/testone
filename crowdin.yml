@@ -5,7 +5,5 @@ files:
     translation: /ttwo/%two_letters_code%.%file_extension
   - source: Exam_ple.xml
     translation: /qqq/%two_letters_code%.%file_extension%
-    "languages_mapping" : {
-      "locale" : {
-        "uk" : "uk-uk",
+    
         
