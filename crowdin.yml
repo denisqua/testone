@@ -8,6 +8,7 @@ files:
     languages_mapping : {
       two_letters_code : {
         "ru" : "ros",
+        "uk" : "ukr"
       }
     }
   
