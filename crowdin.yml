@@ -5,6 +5,5 @@ files:
     translation: /ttwo/%two_letters_code%.%file_extension
   - source: Exam_ple.xml
     translation: /qqq/%two_letters_code%.%file_extension%
-    - source: /core/src/main/resources/locales/en_US.yml
-translation: /core/src/main/resources/locales/%locale_with_underscore%.yml
+  
 
