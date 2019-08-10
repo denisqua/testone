@@ -5,10 +5,5 @@ files:
     translation: /ttwo/%two_letters_code%.%file_extension
   - source: Exam_ple.xml
     translation: /qqq/%two_letters_code%.%file_extension%
-  languages_mapping : {
-      two_letters_code : {
-        "ru" : "ros",
-        "uk" : "ukr"
-      }
-    }
+  
 
