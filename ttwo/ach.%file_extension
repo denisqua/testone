@@ -5,21 +5,21 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">crwdns150922:0crwdne150922:0</string>
-  <string name="save_as">crwdns150924:0crwdne150924:0</string>
-  <string name="view">crwdns150926:0crwdne150926:0</string>
-  <string name="about">crwdns150928:0crwdne150928:0</string>
-  <string name="about_me">crwdns150930:0crwdne150930:0</string>
-  <string name="current_password">crwdns150932:0crwdne150932:0</string>
-  <string name="new_password">crwdns150934:0crwdne150934:0</string>
-  <string name="confirm_password">crwdns150936:0crwdne150936:0</string>
-  <string name="change_password">crwdns150938:0crwdne150938:0</string>
-  <string name="password_recover">crwdns150940:0crwdne150940:0</string>
-  <string name="password_reset_success">crwdns150942:0crwdne150942:0</string>
-  <string name="read_message">crwdns150944:0crwdne150944:0</string>
-  <string name="confirm_delete">crwdns150946:0crwdne150946:0</string>
-  <string name="search_in_messages">crwdns150948:0crwdne150948:0</string>
-  <string name="compose_messages">crwdns150950:0crwdne150950:0</string>
-  <string name="no_data">crwdns150952:0crwdne150952:0</string>
-  <string name="quick_start">crwdns150954:0crwdne150954:0</string>
+  <string name="welcome">crwdns150990:0crwdne150990:0</string>
+  <string name="save_as">crwdns150992:0crwdne150992:0</string>
+  <string name="view">crwdns150994:0crwdne150994:0</string>
+  <string name="about">crwdns150996:0crwdne150996:0</string>
+  <string name="about_me">crwdns150998:0crwdne150998:0</string>
+  <string name="current_password">crwdns151000:0crwdne151000:0</string>
+  <string name="new_password">crwdns151002:0crwdne151002:0</string>
+  <string name="confirm_password">crwdns151004:0crwdne151004:0</string>
+  <string name="change_password">crwdns151006:0crwdne151006:0</string>
+  <string name="password_recover">crwdns151008:0crwdne151008:0</string>
+  <string name="password_reset_success">crwdns151010:0crwdne151010:0</string>
+  <string name="read_message">crwdns151012:0crwdne151012:0</string>
+  <string name="confirm_delete">crwdns151014:0crwdne151014:0</string>
+  <string name="search_in_messages">crwdns151016:0crwdne151016:0</string>
+  <string name="compose_messages">crwdns151018:0crwdne151018:0</string>
+  <string name="no_data">crwdns151020:0crwdne151020:0</string>
+  <string name="quick_start">crwdns151022:0crwdne151022:0</string>
 </resources>
