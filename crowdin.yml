@@ -3,3 +3,6 @@ translation_replace:
 files:
   - source: CommentReplyMessages_en.properties
     translation: '%file_name%_%two_letters_code%.%file_extension%'
+ "translation_replace": {
+        "_fr" : ""
+    }
