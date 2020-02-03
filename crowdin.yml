@@ -5,5 +5,11 @@
     "translation_replace": {
         "_en" : ""
     }
-  }
+  },
+    
+    {
+    "source" : "/Sample.csv",
+    "translation" : "/lol/%two_letters_code%.%file_extension%",
+    "scheme" : "identifier,context,source_phrase,,translation"
+    }
 ]
