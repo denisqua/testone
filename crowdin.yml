@@ -3,7 +3,7 @@ files:
     translation: /%file_name%_%two_letters_code%.%file_extension%
     translation_replace:
       _en: ''
-  - source: /system/locale/exo.xml
+  - source: /system/locale/values/exo.xml
     translation: /system/locale/values-%two_letters_code%/%original_file_name%
     translation_replace:
-      -en: ''
+      '-en': ''
