@@ -5,3 +5,5 @@ files:
       _en: ''
   - source: /system/locale/exo.xml
     translation: /system/locale/values-%two_letters_code%/%original_file_name%
+    translation_replace:
+      _en: ''
