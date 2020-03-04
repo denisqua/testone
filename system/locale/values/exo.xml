@@ -3,7 +3,7 @@
 <resources>
     <string name="identifier_1">String for translation</string>
     <string name="identifier_2" comment="Type string's context here">String for translation</string>
-	<!--context for string 3-->
+    <!--context for string 3-->
     <string name="identifier_3">String for translation</string>
-    <string name="identifier_4" translatable="false">String for translation</string>
+    <string name="identifier_5">TEST ABB</string>
 </resources>
