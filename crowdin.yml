@@ -1,8 +1,9 @@
 files:
   - source: /CommentReplyMessages_en.properties
     translation: /%file_name%_%two_letters_code%.%file_extension%
-    translation_replace:
-      _en: ''
+    "languages_mapping" : {
+      "%two_letters_code%" : {
+        "zh-CN" : "zh-Hans"
   - source: /system/locale/values/exo.xml
     translation: /system/%two_letters_code%/%original_file_name%
     translation_replace:
