@@ -8,5 +8,8 @@ files:
     }
   - source: /system/locale/values/exo.xml
     translation: /system/%two_letters_code%/%original_file_name%
-    translation_replace:
-      '-en': ''
+    "languages_mapping" : {
+      "%two_letters_code%" : {
+        "zh-CN" : "zh-Test"
+      }
+    }'
