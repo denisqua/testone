@@ -1,15 +1,3 @@
 files:
-  - source: /CommentReplyMessages_en.properties
-    translation: /%file_name%_%two_letters_code%.%file_extension%
-    "languages_mapping" : {
-      "%two_letters_code%" : {
-        "zh" : "zh-Hans"
-      }
-    }
-  - source: /system/locale/values/exo.xml
-    translation: /system/%two_letters_code%/%original_file_name%
-    "languages_mapping" : {
-      "%two_letters_code%" : {
-        "zh" : "zh-Test"
-      }
-    }
+  - source: /newtest.xml
+    translation: /translation/%two_letters_code%.%file_extension%
