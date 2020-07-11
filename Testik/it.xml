@@ -6,7 +6,7 @@ Copyright (C) 2014
 <resources>
   <string name="welcome">Welcomem</string>
   <string name="save_as">save as</string>
-  <string name="view">view</string>
+  <string name="view">regfcc</string>
   <string name="about">About...</string>
   <string name="about_me">About Me </string>
   <string name="current_password">Current Pass4word</string>
