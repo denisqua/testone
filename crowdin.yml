@@ -1,5 +1,3 @@
 files:
-  - source: /newtest.xml
-    translation: /test/%two_letters_code%/translation/%two_letters_code%.%file_extension%
-  - source: /sorryn.xml
-    translation: /Testik/%two_letters_code%.%file_extension%
+  - source: /rec.properties
+    translation: /test33/%two_letters_code%.json
