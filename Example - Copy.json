@@ -1,0 +1,6 @@
+{
+    "Test": "Iphone",
+    "Test2": "Xiaomi",
+    "Key3": "Source string 3",
+    "key5": "{gender, select, male {He} female {She} other {They} } will respond shortly."
+}
