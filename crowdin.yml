@@ -6,3 +6,5 @@ files:
     translation: /test22/%two_letters_code%.%file_extension%
   - source: /thisis.html
     translation: /transl/%two_letters_code%.%file_extension%
+  - source: /Example - Copy.json
+    translation: /test/%locale%.%file_extension%
