@@ -1,4 +1,4 @@
-commit_message: New translations for %language%
+commit_message: New translations for %language% test %original_file_name%
 append_commit_message: false
 files:
   - source: /Example - Copy.json
