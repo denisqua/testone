@@ -4,3 +4,5 @@ files:
   - source: /Example - Copy.json
     translation: /test/%locale%.%file_extension%
     update_option: update_as_unapproved
+  - source: /Example.xliff
+    translation: /folder/%two_letters_code%.%file_extension%
