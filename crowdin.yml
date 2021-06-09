@@ -9,4 +9,6 @@ files:
   - source: /Apex.xml
     translation: /test/%two_letters_code%/%original_file_name%
     translatable_elements:
-      - '/data/string[*][@id]'
+      - '/data/string[@id]'
+      - /data/string
+      - '/data/[@string]'
