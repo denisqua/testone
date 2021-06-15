@@ -1,12 +1,11 @@
 commit_message: New translations for %language% test %original_file_name%
 append_commit_message: false
 files:
-  - source: /Example - Copy.json
-    translation: /test/%locale%.%file_extension%
-    update_option: update_as_unapproved
   - source: /Example.xliff
     translation: /folder/%two_letters_code%.%file_extension%
   - source: /Apex.xml
     translation: /test/%two_letters_code%/%original_file_name%
     translatable_elements:
       - '/data/string[@id]'
+  - source: /*.php
+    translation: /testphp/%two_letters_code%.%file_extension%
