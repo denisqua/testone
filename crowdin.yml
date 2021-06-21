@@ -9,5 +9,5 @@ files:
       - '/data/string[@id]'
   - source: /*.php
     translation: /testphp/%two_letters_code%.%file_extension%
-  - source: /en-us/ex.json
+  - source: /en-US/ex.json
     translation: /newtest1/%locale%/%original_file_name%
