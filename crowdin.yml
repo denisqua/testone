@@ -4,8 +4,8 @@ files:
   - source: /Example.xliff
     translation: /folder/%two_letters_code%.%file_extension%
     "excluded_target_languages": [
-      "uk",
-      "fr"
+      "ru",
+      "it"
     ]
   - source: /Apex.xml
     translation: /test/%two_letters_code%/%original_file_name%
