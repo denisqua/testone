@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <UTF8/>
-  <string id="">Apex legends</string>
-  <string id="">pathfinder</string>
-  <string id="">wraith</string>
-  <string id="">gibby</string>
-  <string id="">mirage</string>
+  <string id="itall">Apex legends</string>
+  <string id="2">pathfinder</string>
+  <string id="test new">wraith</string>
+  <string id="teas">gibby</string>
+  <string id="one two three">mirage</string>
 </data>
